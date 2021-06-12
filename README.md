@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @InMaxDigital
-- 👀 I’m interested in App Development
-- 🌱 I am currently a flutter developer and hope to learn a lot more about programming and development
+- 👋 Hi, I’m @InMaxDigital.
+- 👀 I’m interested in App Development.
+- 🌱 I'm currently a flutter developer and hope to learn a lot more about programming and development!
 - 📫 you can contact me in inmaxdigital@gmail.com
